@@ -158,21 +158,21 @@
 ---
 
 ### 4.4. BSA03_HowToRequirements
-**Фокус:** техники выявления требований (SNHC), Vision.
+**Фокус:** техники выявления требований (DLOR), Vision.
 
-- [`BSA03_HowToRequirements/ex00_SNHC_rolegame.pdf`](BSA03_HowToRequirements/ex00_SNHC_rolegame.pdf)  
+- [`BSA03_HowToRequirements/ex00_DLOR_rolegame.pdf`](BSA03_HowToRequirements/ex00_DLOR_rolegame.pdf)  
   В рамках задания описана техника **role game** для выявления требований **SNHC** (сценарии взаимодействия ролей).  
   Навыки: facilitation, интервью/воркшопы, выявление требований через сценарии.
 
-- [`BSA03_HowToRequirements/ex01_SNHC_brainstorming.pdf`](BSA03_HowToRequirements/ex01_SNHC_brainstorming.pdf)  
+- [`BSA03_HowToRequirements/ex01_DLOR_brainstorming.pdf`](BSA03_HowToRequirements/ex01_DLOR_brainstorming.pdf)  
   В рамках задания зафиксированы результаты **brainstorming** (идеи/проблемы/гипотезы).  
   Навыки: генерация требований, структурирование идей.
 
-- [`BSA03_HowToRequirements/ex02_SNHC_seminar.pdf`](BSA03_HowToRequirements/ex02_SNHC_seminar.pdf)  
+- [`BSA03_HowToRequirements/ex02_DLOR_seminar.pdf`](BSA03_HowToRequirements/ex02_DLOR_seminar.pdf)  
   В рамках задания оформлены выводы **seminar** по требованиям.  
   Навыки: фасилитация обсуждений, фиксация решений.
 
-- [`BSA03_HowToRequirements/ex03_SNHC_vision.pdf`](BSA03_HowToRequirements/ex03_SNHC_vision.pdf)  
+- [`BSA03_HowToRequirements/ex03_DLOR_vision.pdf`](BSA03_HowToRequirements/ex03_DLOR_vision.pdf)  
   В файле сформирован документ **Vision** для **SNHC** (цели, контекст, ценность, границы).  
   Навыки: продуктовое мышление, формирование видения и scope.
 
