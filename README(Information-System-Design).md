@@ -26,16 +26,16 @@
 
 ## 1. Краткое описание проекта
 Репозиторий содержит артефакты учебного проекта по анализу и проектированию информационной системы для двух предметных областей:
-- **DLOR** — система онлайн-записи и обслуживания клиентов сети барбершопов (слоты услуг, мастера, клиенты, уведомления, скидки).
-- **SNHC** — система обработки и доставки заказов (оператор/диспетчер/курьер, контроль статусов заказа).
+- **SNHC** — система онлайн-записи и обслуживания клиентов сети барбершопов (слоты услуг, мастера, клиенты, уведомления, скидки).
+- **DLOR** — система обработки и доставки заказов (оператор/диспетчер/курьер, контроль статусов заказа).
 
 В рамках курса выполнены ключевые артефакты системного/бизнес-анализа: декомпозиция, стейкхолдеры, требования as-is/to-be, модели данных, диаграммы процессов/состояний, BPMN, User Stories, Use Cases, объектная модель, UI-спецификация.
 
 ## 2. Цель проекта и бизнес-контекст
 **Цель:** продемонстрировать полный цикл работ аналитика — от исследования предметной области и формализации требований до проектирования процессов, данных и интерфейсов.
 
-**Бизнес-контекст DLOR:** автоматизация записи и управления слотами услуг, снижение ручных операций и ошибок.  
-**Бизнес-контекст SNHC:** упорядочивание обработки заказов и доставки, прозрачное управление статусами и ролями.
+**Бизнес-контекст SNHC:** автоматизация записи и управления слотами услуг, снижение ручных операций и ошибок.  
+**Бизнес-контекст DLOR:** упорядочивание обработки заказов и доставки, прозрачное управление статусами и ролями.
 
 ## 3. Стек и инструменты
 - Моделирование: **BPMN**, **UML**, **DFD**, **Swimlane**, **State diagram / State table**
@@ -201,11 +201,11 @@
   В рамках задания составлен словарь данных для **SNHC**.  
   Навыки: data dictionary.
 
-- [`BSA04_Domains/ex03_DLOR_model.svg`](BSA04_Domains/ex03_DLOR_model.svg)  
+- [`BSA04_Domains/ex03_DLOR_model.pdf`](BSA04_Domains/ex03_DLOR_model.pdf)  
   В файле построена логическая модель данных (ERD) для **DLOR**.  
   Навыки: ERD/relationships, нормализация на уровне концепта.
 
-- [`BSA04_Domains/ex03_SNHC_model.svg`](BSA04_Domains/ex03_SNHC_model.svg)  
+- [`BSA04_Domains/ex03_SNHC_model.pdf`](BSA04_Domains/ex03_SNHC_model.pdf)  
   В файле построена логическая модель данных (ERD) для **SNHC**.  
   Навыки: проектирование данных.
 
@@ -334,46 +334,46 @@
 ---
 
 ### 4.8. BSA07_UserStory
-**Фокус:** User Stories (DLOR).
+**Фокус:** User Stories (SNHC).
 
-- [`BSA07_UserStory/ex00_DLOR_us_MANAGER_.pdf`](BSA07_UserStory/ex00_DLOR_us_MANAGER_.pdf)  
-  В рамках задания сформированы User Stories для роли **Manager** в домене **DLOR**.  
+- [`BSA07_UserStory/ex00_SNHC_us_manager_.pdf`](BSA07_UserStory/ex00_SNHC_us_manager_.pdf)  
+  В рамках задания сформированы User Stories для роли **Manager** в домене **SNHC**.  
   Навыки: user-centric требования, ценность/цель, критерии приемки.
 
-- [`BSA07_UserStory/ex01_DLOR_us_Client, Guest Website Visitor, Master, Accountant_.pdf`](BSA07_UserStory/ex01_DLOR_us_Client,%20Guest%20Website%20Visitor,%20Master,%20Accountant_.pdf)  
-  В рамках задания сформированы User Stories для ролей: Client / Guest Website Visitor / Master / Accountant.  
+- [`BSA07_UserStory/ex01_SNHC_us_роль_.pdf`](BSA07_UserStory/ex01_SNHC_us_роль_.pdf)  
+  В рамках задания сформированы User Stories для ролей: Client / Master.  
   Навыки: покрытие ролей, согласование ожиданий разных пользователей.
 
-- [`BSA07_UserStory/ex02_DLOR_us.pdf`](BSA07_UserStory/ex02_DLOR_us.pdf)  
+- [`BSA07_UserStory/ex02_HAIR_us.pdf`](BSA07_UserStory/ex02_HAIR_us.pdf)  
   В рамках задания оформлен итоговый документ по User Stories (компоновка/согласование/протокол).  
   Навыки: консолидация требований, управление набором US.
 
 ---
 
 ### 4.9. BSA08_UseCase
-**Фокус:** Use Cases (DLOR).
+**Фокус:** Use Cases (SNHC).
 
-- [`BSA08_UseCase/ex00_DLOR_UC.pdf`](BSA08_UseCase/ex00_DLOR_UC.pdf)  
-  В рамках задания описаны Use Cases DLOR (набор UC и/или основной сценарий).  
+- [`BSA08_UseCase/ex00_SNHC_UC.pdf`](BSA08_UseCase/ex00_SNHC_UC.pdf)  
+  В рамках задания описаны Use Cases SNHC (набор UC и/или основной сценарий).  
   Навыки: формализация сценариев, акторы, предусловия/постусловия.
 
-- [`BSA08_UseCase/ex01_DLOR_UC.pdf`](BSA08_UseCase/ex01_DLOR_UC.pdf)  
+- [`BSA08_UseCase/ex01_SNHC_UC.pdf`](BSA08_UseCase/ex01_SNHC_UC.pdf)  
   Use Case документ №2 (детализация/дополнение UC).  
   Навыки: альтернативные потоки, исключения.
 
-- [`BSA08_UseCase/ex02_DLOR_UC.pdf`](BSA08_UseCase/ex02_DLOR_UC.pdf)  
+- [`BSA08_UseCase/ex02_SNHC_UC.pdf`](BSA08_UseCase/ex02_SNHC_UC.pdf)  
   Use Case документ №3.  
   Навыки: полнота сценариев.
 
-- [`BSA08_UseCase/ex03_DLOR_UC.pdf`](BSA08_UseCase/ex03_DLOR_UC.pdf)  
+- [`BSA08_UseCase/ex03_SNHC_UC.pdf`](BSA08_UseCase/ex03_SNHC_UC.pdf)  
   Use Case документ №4.  
   Навыки: согласование бизнес-правил через сценарии.
 
-- [`BSA08_UseCase/ex04_DLOR_UC.pdf`](BSA08_UseCase/ex04_DLOR_UC.pdf)  
+- [`BSA08_UseCase/ex04_SNHC_UC.pdf`](BSA08_UseCase/ex04_SNHC_UC.pdf)  
   Use Case документ №5.  
   Навыки: трассировка к объектам/статусам.
 
-- [`BSA08_UseCase/ex05_DLOR_UC.pdf`](BSA08_UseCase/ex05_DLOR_UC.pdf)  
+- [`BSA08_UseCase/ex05_SNHC_UC.pdf`](BSA08_UseCase/ex05_SNHC_UC.pdf)  
   Use Case документ №6 (закрытие набора UC).  
   Навыки: систематизация UC.
 
@@ -394,7 +394,7 @@
   В рамках задания описаны справочники и сущности, связанные с ними.  
   Навыки: reference data, классификаторы.
 
-- [`BSA09_Objects and Roles/Exercise_03_Service_Stats.pdf`](BSA09_Objects%20and%20Roles/Exercise_03_Service_Stats.pdf)  
+- [`BSA09_Objects and Roles/Exercise_03_Service_Slots.pdf`](BSA09_Objects%20and%20Roles/Exercise_03_Service_Slots.pdf)  
   В рамках задания описан объект “слот услуги” и связанные атрибуты/состояния/операции.  
   Навыки: анализ ключевого объекта, подготовка к статусной модели и CRUD.
 
@@ -419,27 +419,27 @@
   В рамках задания определены объекты, для которых требуется статусная модель.  
   Навыки: выделение управляемых сущностей, подготовка статусов.
 
-- [`BSA10_FunctionalRequirements/Exercise_01_Life Cycle of the Service_Stats.pdf`](BSA10_FunctionalRequirements/Exercise_01_Life Cycle of the Service_Stats.pdf)  
+- [`BSA10_FunctionalRequirements/Exercise_01_Life_Cycle_of_the_Service_slots.pdf`](BSA10_FunctionalRequirements/Exercise_01_Life_Cycle_of_the_Service_slots.pdf)  
   В рамках задания описан жизненный цикл объекта “слот услуги”.  
   Навыки: state lifecycle, события и переходы.
 
-- [`BSA10_FunctionalRequirements/Exercise_02_Status models of the ente.pdf`](BSA10_FunctionalRequirements/Exercise_02_Status models of the ente.pdf)  
+- [`BSA10_FunctionalRequirements/Exercise_02_Status_models_of_the_entety.pdf`](BSA10_FunctionalRequirements/Exercise_02_Status_models_of_the_entety.pdf)  
   В рамках задания разработаны статусные модели для сущностей системы.  
   Навыки: формализация статусов, условия переходов.
 
-- [`BSA10_FunctionalRequirements/Exercise_03_Description of actions on References.pdf`](BSA10_FunctionalRequirements/Exercise_03_Description of actions on References.pdf)  
+- [`BSA10_FunctionalRequirements/Exercise_03_Description_of_actions_on_References.pdf`](BSA10_FunctionalRequirements/Exercise_03_Description_of_actions_on_References.pdf)  
   В рамках задания описаны действия над справочниками/референсными данными.  
   Навыки: CRUD для справочников, администрирование данных.
 
-- [`BSA10_FunctionalRequirements/Exercise_04_CRUD Operations on the Service Stats Object.pdf`](BSA10_FunctionalRequirements/Exercise_04_CRUD Operations on the Service Stats Object.pdf)  
+- [`BSA10_FunctionalRequirements/Exercise_04_CRUD_Operations_on_the_Service_Slots_Object.pdff`](BSA10_FunctionalRequirements/Exercise_04_CRUD_Operations_on_the_Service_Slots_Object.pdf)  
   В рамках задания определены CRUD-операции над “слотом услуги”.  
   Навыки: детализация операций, права/ограничения.
 
-- [`BSA10_FunctionalRequirements/Exercise_05_Detailed Operations on the Service Stats Object.pdf`](BSA10_FunctionalRequirements/Exercise_05_Detailed Operations on the Service Stats Object.pdf)  
+- [`BSA10_FunctionalRequirements/Exercise_05_Detailed_Operations_on_the_Service_Slots_Object.pdf`](BSA10_FunctionalRequirements/Exercise_05_Detailed_Operations_on_the_Service_Slots_Object.pdf)  
   В рамках задания детализированы операции над объектом “слот услуги” (условия, проверки, эффекты).  
   Навыки: спецификация логики, проверяемость.
 
-- [`BSA10_FunctionalRequirements/Exercise_06_Role Access Rights.pdf`](BSA10_FunctionalRequirements/Exercise_06_Role Access Rights.pdf)  
+- [`BSA10_FunctionalRequirements/Exercise_06_Role_Access_Rights.pdf`](BSA10_FunctionalRequirements/Exercise_06_Role_Access_Rights.pdf)  
   В рамках задания определены права доступа по ролям.  
   Навыки: RBAC, безопасность на уровне требований.
 
@@ -448,55 +448,55 @@
 ### 4.12. BSA11_UserInterfaces
 **Фокус:** UI-спецификация, сценарии, wireframes.
 
-- [`BSA11_UserInterfaces/Exercise_00_Choosing the Form of Product Presentation.pdf`](BSA11_UserInterfaces/Exercise_00_Choosing the Form of Product Presentation.pdf)  
+- [`BSA11_UserInterfaces/Exercise_00_Choosing_the_Form_of_Product_Presentation.pdf`](BSA11_UserInterfaces/Exercise_00_Choosing_the_Form_of_Product_Presentation.pdf)  
   В рамках задания определен подход к представлению продукта/данных в интерфейсе.  
   Навыки: UX-логика, выбор формы подачи информации.
 
-- [`BSA11_UserInterfaces/Exercise_01_Creation Forms of Classifiers and References.pdf`](BSA11_UserInterfaces/Exercise_01_Creation Forms of Classifiers and References.pdf)  
+- [`BSA11_UserInterfaces/Exercise_01_Creation_Forms_of_Classifiers_and_References.pdf`](BSA11_UserInterfaces/Exercise_01_Creation_Forms_of_Classifiers_and_References.pdf)  
   В рамках задания описаны экранные формы для классификаторов и справочников.  
   Навыки: проектирование админ-интерфейсов.
 
-- [`BSA11_UserInterfaces/Exercise_02_Data on the Screen Forms of Classifiers and References.pdf`](BSA11_UserInterfaces/Exercise_02_Data on the Screen Forms of Classifiers and References.pdf)  
+- [`BSA11_UserInterfaces/Exercise_02_Data_on_the_Screen_Forms_of_Classifiers_and_References.pdf`](BSA11_UserInterfaces/Exercise_02_Data_on_the_Screen_Forms_of_Classifiers_and_References.pdf)  
   В рамках задания определены данные/поля, отображаемые на формах.  
   Навыки: data-to-UI mapping, спецификация полей.
 
-- [`BSA11_UserInterfaces/Exercise_03_Key Role Scenarios.pdf`](BSA11_UserInterfaces/Exercise_03_Key Role Scenarios.pdf)  
+- [`BSA11_UserInterfaces/Exercise_03_Key_Role_Scenarios.pdf`](BSA11_UserInterfaces/Exercise_03_Key_Role_Scenarios.pdf)  
   В рамках задания описаны ключевые сценарии ролей в UI.  
   Навыки: user flow, приоритизация сценариев.
 
-- [`BSA11_UserInterfaces/Exercise_04_List of Screen Forms.pdf`](BSA11_UserInterfaces/Exercise_04_List of Screen Forms.pdf)  
+- [`BSA11_UserInterfaces/Exercise_04_List_of_Screen_Forms.pdf`](BSA11_UserInterfaces/Exercise_04_List_of_Screen_Forms.pdf)  
   В рамках задания составлен перечень экранных форм.  
   Навыки: UI inventory, coverage.
 
-- [`BSA11_UserInterfaces/ex05/Exercise_05_Master Schedule (wireframe).pdf`](BSA11_UserInterfaces/ex05/Exercise_05_Master Schedule (wireframe).pdf)  
+- [`BSA11_UserInterfaces/ex05/Exercise_05_Master_Schedule_(wireframe).pdf`](BSA11_UserInterfaces/ex05/Exercise_05_Master_Schedule_(wireframe).pdf)  
   В рамках задания создан wireframe экрана расписания мастера.  
   Навыки: wireframing, UX для расписаний/слотов.
 
-- [`BSA11_UserInterfaces/ex05/Exercise_05_Preview Your Own Schedule (wireframe).pdf`](BSA11_UserInterfaces/ex05/Exercise_05_Preview Your Own Schedule (wireframe).pdf)  
+- [`BSA11_UserInterfaces/ex05/Exercise_05_Preview_Your_Own_Schedule_(wireframe).pdf`](BSA11_UserInterfaces/ex05/Exercise_05_Preview_Your_Own_Schedule_(wireframe).pdf)  
   Wireframe просмотра собственного расписания.  
   Навыки: UX сценарии пользователя.
 
-- [`BSA11_UserInterfaces/ex05/Exercise_05_Slot Reservation(wireframe).pdf`](BSA11_UserInterfaces/ex05/Exercise_05_Slot Reservation(wireframe).pdf)  
+- [`BSA11_UserInterfaces/ex05/Exercise_05_Slot_Reservation(wireframe).pdf`](BSA11_UserInterfaces/ex05/Exercise_05_Slot_Reservation(wireframe).pdf)  
   Wireframe бронирования слота.  
   Навыки: UX критического сценария “запись”.
 
-- [`BSA11_UserInterfaces/Exercise_06_Controls Description.pdf`](BSA11_UserInterfaces/Exercise_06_Controls Description.pdf)  
+- [`BSA11_UserInterfaces/Exercise_06_Controls_Description.pdf`](BSA11_UserInterfaces/Exercise_06_Controls_Description.pdf)  
   В рамках задания описаны элементы управления, проверки, ограничения ввода.  
   Навыки: UI-валидации, нефункциональные аспекты удобства/ошибок.
 
 ---
 
 ## 5. Артефакты бизнес-системного анализа
-- Требования (as-is/to-be): `BSA02_Requirements/*`
-- Стейкхолдеры и контекст: `BSA01_Stakeholders/*`, `BSA02_Requirements/ex01_SNHC_context.svg`
-- BPMN / процессная модель: `BSA06_BPMN/*`
-- UML / объектная модель: `BSA09_Objects and Roles/*`
-- ERD / модель данных и словари: `BSA04_Domains/*`
-- Диаграммы потоков и состояний: `BSA05_Diagrams/*`
-- User Stories: `BSA07_UserStory/*`
-- Use Cases: `BSA08_UseCase/*`
-- Функциональная детализация (статусы/CRUD/права): `BSA10_FunctionalRequirements/*`
-- UI-спецификация и wireframes: `BSA11_UserInterfaces/*`
+- Требования (as-is/to-be): [`BSA02_Requirements/*`](BSA02_Requirements/)
+- Стейкхолдеры и контекст: [`BSA01_Stakeholders/*`](BSA01_Stakeholders/), [`BSA02_Requirements/ex01_SNHC_context.svg`](BSA02_Requirements/ex01_SNHC_context.svg)
+- BPMN / процессная модель: [`BSA06_BPMN/*`](BSA06_BPMN/)
+- UML / объектная модель: [`BSA09_Objects and Roles/*`](BSA09_Objects%20and%20Roles/)
+- ERD / модель данных и словари: [`BSA04_Domains/*`](BSA04_Domains/)
+- Диаграммы потоков и состояний: [`BSA05_Diagrams/*`](BSA05_Diagrams/)
+- User Stories: [`BSA07_UserStory/*`](BSA07_UserStory/)
+- Use Cases: [`BSA08_UseCase/*`](BSA08_UseCase/)
+- Функциональная детализация (статусы/CRUD/права): [`BSA10_FunctionalRequirements/*`](BSA10_FunctionalRequirements/)
+- UI-спецификация и wireframes: [`BSA11_UserInterfaces/*`](BSA11_UserInterfaces/)
 
 ## 6. Какие навыки бизнес-системного аналитика демонстрирует проект
 - Анализ предметной области: декомпозиция, глоссарий, сущности
