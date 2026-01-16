@@ -127,8 +127,8 @@
   В рамках задания описаны роли и действия (**as-is**) для **SNHC**.  
   Навыки: анализ текущих процессов.
 
-- [`BSA02_Requirements/ex01_SNHC_context.svg`](BSA02_Requirements/ex01_SNHC_context.svg)  
-  В файле описан контекст системы **SNHC** (внешние акторы/системы и взаимодействия).  
+- [`BSA02_Requirements/ex01_DLOR_context.svg`](BSA02_Requirements/ex01_DLOR_context.svg)  
+  В файле описан контекст системы **DLOR** (внешние акторы/системы и взаимодействия).  
   Навыки: контекстное моделирование, границы системы.
 
 - [`BSA02_Requirements/ex02_DLOR_tobe.pdf`](BSA02_Requirements/ex02_DLOR_tobe.pdf)  
