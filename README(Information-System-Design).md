@@ -90,12 +90,12 @@
 ### 4.2. BSA01_Stakeholders
 **Фокус:** стейкхолдеры, окружение системы, потребности.
 
-- [`BSA01_Stakeholders/ex00_SNHC_stakeholders.pdf`](BSA01_Stakeholders/ex00_SNHC_stakeholders.pdf)  
-  В рамках задания составлен перечень стейкхолдеров системы **SNHC** с их ролями/интересами.  
+- [`BSA01_Stakeholders/ex00_DLOR_stakeholders.pdf`](BSA01_Stakeholders/ex00_DLOR_stakeholders.pdf)  
+  В рамках задания составлен перечень стейкхолдеров системы **DLOR** с их ролями/интересами.  
   Навыки: stakeholder analysis, идентификация влияния.
 
-- [`BSA01_Stakeholders/ex01_SNHC_onion.svg`](BSA01_Stakeholders/ex01_SNHC_onion.svg)  
-  В файле построена **onion diagram** для **SNHC** (слои окружения: ядро/взаимодействующие/внешние).  
+- [`BSA01_Stakeholders/ex01_DLOR_onion.svg`](BSA01_Stakeholders/ex01_DLOR_onion.svg)  
+  В файле построена **onion diagram** для **DLOR** (слои окружения: ядро/взаимодействующие/внешние).  
   Навыки: определение границ системы, контекстное моделирование.
 
 - [`BSA01_Stakeholders/ex02_DLOR_needs.pdf`](BSA01_Stakeholders/ex02_DLOR_needs.pdf)  
@@ -189,8 +189,8 @@
   В рамках задания выделены сущности домена **SNHC**.  
   Навыки: domain modeling.
 
-- [`BSA04_Domains/ex01_DLOR_crud.pdf`](BSA04_Domains/ex01_DLOR_crud.pdf)  
-  В рамках задания построена CRUD-матрица для ключевых сущностей **DLOR**.  
+- [`BSA04_Domains/ex01_SNHC_crud.pdf`](BSA04_Domains/ex01_SNHC_crud.pdf)  
+  В рамках задания построена CRUD-матрица для ключевых сущностей **SNHC**.  
   Навыки: валидация полноты требований, распределение операций по ролям/процессам.
 
 - [`BSA04_Domains/ex02_DLOR_dict.pdf`](BSA04_Domains/ex02_DLOR_dict.pdf)  
