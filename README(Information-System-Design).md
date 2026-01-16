@@ -452,7 +452,7 @@
   В рамках задания определен подход к представлению продукта/данных в интерфейсе.  
   Навыки: UX-логика, выбор формы подачи информации.
 
-- [`BSA11_UserInterfaces/Exercise_01_Creation_Forms_of_Classifiers_and_References.pdf`](BSA11_UserInterfaces/Exercise_01_Creation_Forms_of_Classifiers_and_References.pdf)  
+- [`BSA11_UserInterfaces/Exercise_01_Screen_Forms_of_Classifiers_and_References.pdf`](BSA11_UserInterfaces/Exercise_01_Screen_Forms_of_Classifiers_and_References.pdf)  
   В рамках задания описаны экранные формы для классификаторов и справочников.  
   Навыки: проектирование админ-интерфейсов.
 
