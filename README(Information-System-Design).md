@@ -214,35 +214,35 @@
 ### 4.6. BSA05_Diagrams
 **Фокус:** DFD/Swimlane/State.
 
-- [`BSA05_Diagrams/ex00_DLOR_dfd.png`](BSA05_Diagrams/ex00_DLOR_dfd.png)  
+- [`BSA05_Diagrams/ex00_DLOR_dfd.svg`](BSA05_Diagrams/ex00_DLOR_dfd.svg)  
   В рамках задания построена DFD-диаграмма для **DLOR** (потоки данных и процессы).  
   Навыки: DFD, системное представление потоков.
 
-- [`BSA05_Diagrams/ex00_SNHC_dfd.png`](BSA05_Diagrams/ex00_SNHC_dfd.png)  
+- [`BSA05_Diagrams/ex00_SNHC_dfd.svg`](BSA05_Diagrams/ex00_SNHC_dfd.svg)  
   DFD для **SNHC**.  
   Навыки: DFD.
 
-- [`BSA05_Diagrams/ex01_DLOR_swd.png`](BSA05_Diagrams/ex01_DLOR_swd.png)  
+- [`BSA05_Diagrams/ex01_DLOR_swd.svg`](BSA05_Diagrams/ex01_DLOR_swd.svg)  
   Swimlane-диаграмма процесса **DLOR** (разделение по ролям/ответственности).  
   Навыки: моделирование процессов, RACI-like разделение ответственности.
 
-- [`BSA05_Diagrams/ex01_SNHC_swd.png`](BSA05_Diagrams/ex01_SNHC_swd.png)  
+- [`BSA05_Diagrams/ex01_SNHC_swd.svg`](BSA05_Diagrams/ex01_SNHC_swd.svg)  
   Swimlane для **SNHC**.  
   Навыки: процессный анализ.
 
-- [`BSA05_Diagrams/ex02_DLOR_adswd.png`](BSA05_Diagrams/ex02_DLOR_adswd.png)  
+- [`BSA05_Diagrams/ex02_DLOR_adswd.svg`](BSA05_Diagrams/ex02_DLOR_adswd.svg)  
   В рамках задания уточнена swimlane-диаграмма **DLOR** с артефактами/данными.  
   Навыки: повышение точности процесса, связка действий с данными.
 
-- [`BSA05_Diagrams/ex02_SNHC_adswd.png`](BSA05_Diagrams/ex02_SNHC_adswd.png)  
+- [`BSA05_Diagrams/ex02_SNHC_adswd.svg`](BSA05_Diagrams/ex02_SNHC_adswd.svg)  
   Аналогично для **SNHC**.  
   Навыки: детализация процессов.
 
-- [`BSA05_Diagrams/ex03_DLOR_dst.png`](BSA05_Diagrams/ex03_DLOR_dst.png)  
+- [`BSA05_Diagrams/ex03_DLOR_dst.svg`](BSA05_Diagrams/ex03_DLOR_dst.svg)  
   В рамках задания построена диаграмма состояний (state diagram) для объекта домена **DLOR**.  
   Навыки: жизненный цикл сущностей, статусы и переходы.
 
-- [`BSA05_Diagrams/ex03_SNHC_dst.png`](BSA05_Diagrams/ex03_SNHC_dst.png)  
+- [`BSA05_Diagrams/ex03_SNHC_dst.svg`](BSA05_Diagrams/ex03_SNHC_dst.svg)  
   Диаграмма состояний для **SNHC**.  
   Навыки: state modeling.
 
