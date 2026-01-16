@@ -94,7 +94,7 @@
   В рамках задания составлен перечень стейкхолдеров системы **DLOR** с их ролями/интересами.  
   Навыки: stakeholder analysis, идентификация влияния.
 
-- [`BSA01_Stakeholders/ex01_DLOR_onion.svg`](BSA01_Stakeholders/ex01_DLOR_onion.svg)  
+- [`BSA01_Stakeholders/ex01_DLOR_onion.png`](BSA01_Stakeholders/ex01_DLOR_onion.svg)  
   В файле построена **onion diagram** для **DLOR** (слои окружения: ядро/взаимодействующие/внешние).  
   Навыки: определение границ системы, контекстное моделирование.
 
