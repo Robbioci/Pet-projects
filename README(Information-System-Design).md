@@ -271,7 +271,7 @@
   В рамках задания определен перечень основных бизнес-процессов **SNHC**.  
   Навыки: выделение процессов, декомпозиция по value stream.
 
-- [`BSA06_BPMN/Ex02/ex02_HAIR_BPR-1_disc.pdf`](BSA06_BPMN/Ex02/ex02_HAIR_BPR-1_disc.pdf.pdf)  
+- [`BSA06_BPMN/Ex02/ex02_HAIR_BPR-1_disc.pdf`](BSA06_BPMN/Ex02/ex02_HAIR_BPR-1_disc.pdf)  
   В рамках задания оформлено обсуждение/уточнения процесса BPMN №1 (замечания, вопросы, согласование).  
   Навыки: коммуникации, протоколирование, работа с обратной связью.
 
@@ -311,7 +311,7 @@
   BPMN процесса №3.  
   Навыки: BPMN.
 
-- [`BSA06_BPMN/Ex04/ex04_HAIR_bpmn_BPR-4.svg`](BSA06_BPMN/Ex04/ex04_HAIR_bpmn_BPR-4.svgg)  
+- [`BSA06_BPMN/Ex04/ex04_HAIR_bpmn_BPR-4.svg`](BSA06_BPMN/Ex04/ex04_HAIR_bpmn_BPR-4.svg)  
   BPMN процесса №4.  
   Навыки: BPMN.
 
