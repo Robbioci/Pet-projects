@@ -43,31 +43,31 @@
 ### 4.1. BSA14_SystemIntegration
 **Фокус:** системная интеграция (SNHC).
 
-- [`BSA14_SystemIntegration/Exercise_00_Data Flows Identification.pdf`](BSA14_SystemIntegration/Exercise_00_Data Flows Identification.pdf)  
+- [`BSA14_SystemIntegration/Exercise_00_Data_Flows_Identification.pdf`](BSA14_SystemIntegration/Exercise_00_Data_Flows_Identification.pdf)  
   В рамках задания идентифицированы потоки данных между системами/участниками (что и куда передается).  
   Навыки: integration discovery, границы обмена данными.
 
-- [`BSA14_SystemIntegration/Exercise_01_Master Systems Identification.pdf`](BSA14_SystemIntegration/Exercise_01_Master Systems Identification.pdf)  
+- [`BSA14_SystemIntegration/Exercise_01_Master_Systems_Identification.pdf`](BSA14_SystemIntegration/Exercise_01_Master_Systems_Identification.pdf)  
   В рамках задания определены мастер-системы (владельцы/источники истины по данным).  
   Навыки: data ownership, MDM логика.
 
-- [`BSA14_SystemIntegration/Exercise_02_Recipient Systems Identification.pdf`](BSA14_SystemIntegration/Exercise_02_Recipient Systems Identification.pdf)  
+- [`BSA14_SystemIntegration/Exercise_02_Recipient_Systems_Identification.pdf`](BSA14_SystemIntegration/Exercise_02_Recipient_Systems_Identification.pdf)  
   В рамках задания определены системы-получатели данных и цели получения.  
   Навыки: архитектурное мышление, потребители данных.
 
-- [`BSA14_SystemIntegration/Exercise_03_Data Dictionary.pdf`](BSA14_SystemIntegration/Exercise_03_Data Dictionary.pdf)  
+- [`BSA14_SystemIntegration/Exercise_03_Data_Dictionary.pdf`](BSA14_SystemIntegration/Exercise_03_Data_Dictionary.pdf)  
   В рамках задания оформлен словарь данных для потоков (состав полей/структура передаваемых данных).  
   Навыки: контракт данных, атрибутная спецификация интеграций.
 
-- [`BSA14_SystemIntegration/Exercise_04_Integration Scenarios Description.pdf`](BSA14_SystemIntegration/Exercise_04_Integration Scenarios Description.pdf)  
+- [`BSA14_SystemIntegration/Exercise_04_Integration_Scenarios_Description.pdf`](BSA14_SystemIntegration/Exercise_04_Integration_Scenarios_Description.pdf)  
   В рамках задания описаны сценарии интеграции (когда и по какому событию выполняется обмен).  
   Навыки: event-driven thinking, описание сценариев передачи.
 
-- [`BSA14_SystemIntegration/Exercise_05_Define Volume and Quantity Requirements for Data Flows.pdf`](BSA14_SystemIntegration/Exercise_05_Define Volume and Quantity Requirements for Data Flows.pdf)  
+- [`BSA14_SystemIntegration/Exercise_05_Define_Volume_and_Quantity_Requirements_for_Data_Flows.pdf`](BSA14_SystemIntegration/Exercise_05_Define_Volume_and_Quantity_Requirements_for_Data_Flows.pdf)  
   В рамках задания определены требования к объему/количеству данных (нагрузка, объемы сообщений).  
   Навыки: non-functional thinking для интеграций, capacity.
 
-- [`BSA14_SystemIntegration/Exercise_06_Determining Frequency and Timing for Data Flows.pdf`](BSA14_SystemIntegration/Exercise_06_Determining Frequency and Timing for Data Flows.pdf)  
+- [`BSA14_SystemIntegration/Exercise_06_Determining_Frequency_and_Timing_for_Data_Flows.pdf`](BSA14_SystemIntegration/Exercise_06_Determining_Frequency_and_Timing_for_Data_Flows.pdf)  
   В рамках задания определены частота и временные требования обмена (периодичность, окна).  
   Навыки: SLA обмена, требования к расписанию интеграций.
 
@@ -80,23 +80,23 @@
   В рамках задания зафиксирована терминология REST/API для единых определений.  
   Навыки: терминологическая точность, контрактная дисциплина.
 
-- [`BSA15_REST/Exercise_01_Data Preparation.pdf`](BSA15_REST/Exercise_01_Data Preparation.pdf)  
+- [`BSA15_REST/Exercise_01_Data_Preparation.pdf`](BSA15_REST/Exercise_01_Data_Preparation.pdf)  
   В рамках задания подготовлены исходные данные/объекты для проектирования REST.  
   Навыки: подготовка доменных сущностей к API.
 
-- [`BSA15_REST/Exercise_02_UC Update.pdf`](BSA15_REST/Exercise_02_UC Update.pdf)  
+- [`BSA15_REST/Exercise_02_UC_Update.pdf`](BSA15_REST/Exercise_02_UC_Update.pdf)  
   В рамках задания актуализированы Use Cases с учетом интеграции/API.  
   Навыки: согласование UC с интерфейсами системы.
 
-- [`BSA15_REST/Exercise_03_References Integration.pdf`](BSA15_REST/Exercise_03_References Integration.pdf)  
+- [`BSA15_REST/Exercise_03_References_Integration.pdf`](BSA15_REST/Exercise_03_References_Integration.pdf)  
   В рамках задания описана интеграция справочников/референсных данных.  
   Навыки: reference data через API, согласованность справочников.
 
-- [`BSA15_REST/Exercise_04_Definition and Description of Methods.pdf`](BSA15_REST/Exercise_04_Definition and Description of Methods.pdf)  
+- [`BSA15_REST/Exercise_04_Definition_and_Description_of_Methods.pdf`](BSA15_REST/Exercise_04_Definition_and_Description_of_Methods.pdf)  
   В рамках задания определены и описаны REST-методы (endpoint, назначение, операции).  
   Навыки: API design, соответствие CRUD/HTTP.
 
-- [`BSA15_REST/Exercise_05_Description of RequestResponse Elements.pdf`](BSA15_REST/Exercise_05_Description of RequestResponse Elements.pdf)  
+- [`BSA15_REST/Exercise_05_Description_of_RequestResponse_Elements.pdf`](BSA15_REST/Exercise_05_Description_of_RequestResponse_Elements.pdf)  
   В рамках задания описаны элементы request/response (поля, типы, обязательность).  
   Навыки: контракт API, спецификация данных.
 
@@ -104,53 +104,45 @@
   В рамках задания выполнен маппинг данных (соответствие полей между системами/моделями).  
   Навыки: data mapping, интеграционная совместимость.
 
-- [`BSA15_REST/Exercise_07_Errors Description.pdf`](BSA15_REST/Exercise_07_Errors Description.pdf)  
+- [`BSA15_REST/Exercise_07_Errors Description.pdf`](BSA15_REST/Exercise_07_Errors_Description.pdf)  
   В рамках задания описана модель ошибок и обработка нештатных ситуаций (коды/сообщения/условия).  
   Навыки: error model, устойчивость API.
-
-- [`BSA15_REST/Exercise_08_UC Update.pdf`](BSA15_REST/Exercise_08_UC Update.pdf)  
-  В рамках задания выполнено повторное уточнение Use Cases после спецификации API.  
-  Навыки: итеративность, выравнивание требований.
-
-- [`BSA15_REST/Exercise_09_Definition and Description of Methods.pdf`](BSA15_REST/Exercise_09_Definition and Description of Methods.pdf)  
-  В рамках задания продолжено/завершено описание методов REST (дополнение набора endpoint).  
-  Навыки: полнота API покрытия.
 
 ---
 
 ### 4.3. BSA16_SOAP
 **Фокус:** SOAP/WSDL.
 
-- [`BSA16_SOAP/Exercise_00_Functions of WSDL First Level Tags.pdf`](BSA16_SOAP/Exercise_00_Functions of WSDL First Level Tags.pdf)  
+- [`BSA16_SOAP/Exercise_00_Functions_of_WSDL_First_Level_Tags.pdf`](BSA16_SOAP/Exercise_00_Functions_of_WSDL_First_Level_Tags.pdf)  
   В рамках задания разобраны теги верхнего уровня WSDL и их назначение.  
   Навыки: чтение WSDL, понимание структуры контракта.
 
-- [`BSA16_SOAP/Exercise_01_Methods of port Type.pdf`](BSA16_SOAP/Exercise_01_Methods of port Type.pdf)  
+- [`BSA16_SOAP/Exercise_01_Methods_of_port_Type.pdf`](BSA16_SOAP/Exercise_01_Methods_of_port_Type.pdf)  
   В рамках задания проанализированы операции (methods) в portType.  
   Навыки: операции SOAP, интерфейс сервиса.
 
-- [`BSA16_SOAP/Exercise_02_Section schema.pdf`](BSA16_SOAP/Exercise_02_Section schema.pdf)  
+- [`BSA16_SOAP/Exercise_02_Section_schema.pdf`](BSA16_SOAP/Exercise_02_Section_schema.pdf)  
   В рамках задания разобран раздел schema (XSD) и структура сообщений.  
   Навыки: XSD/типы, спецификация данных в SOAP.
 
-- [`BSA16_SOAP/Exercise_03_Reverse Engineering.pdf`](BSA16_SOAP/Exercise_03_Reverse Engineering.pdf)  
+- [`BSA16_SOAP/Exercise_03_Reverse_Engineering.pdf`](BSA16_SOAP/Exercise_03_Reverse_Engineering.pdf)  
   В рамках задания выполнено обратное проектирование (восстановление структуры сообщений/контрактов).  
   Навыки: reverse engineering, аналитика интеграционного контракта.
 
-- [`BSA16_SOAP/Exercise_04_Reverse Engineering, Addition.pdf`](BSA16_SOAP/Exercise_04_Reverse Engineering, Addition.pdf)  
+- [`BSA16_SOAP/Exercise_04_Reverse_Engineering,_Addition.pdf`](BSA16_SOAP/Exercise_04_Reverse_Engineering,_Addition.pdf)  
   В рамках задания дополнено обратное проектирование (уточнение элементов сообщений).  
   Навыки: уточнение контрактов, точность модели.
 
-- [`BSA16_SOAP/Exercise_05_Endpoint Definition.pdf`](BSA16_SOAP/Exercise_05_Endpoint Definition.pdf)  
+- [`BSA16_SOAP/Exercise_05_Endpoint_Definition.pdf`](BSA16_SOAP/Exercise_05_Endpoint_Definition.pdf)  
   В рамках задания определены endpoint и параметры доступа к SOAP-сервису (по структуре WSDL).  
   Навыки: endpoint discovery, практическая применимость спецификации.
 
 ---
 
 ## 5. Артефакты бизнес-системного анализа
-- Интеграции (flows, словарь, SLA обмена): `BSA14_SystemIntegration/*`
-- REST (методы, контракт, mapping, errors, UC updates): `BSA15_REST/*`
-- SOAP/WSDL (структура, reverse, endpoints): `BSA16_SOAP/*`
+- Интеграции (flows, словарь, SLA обмена): [`BSA14_SystemIntegration/*`](BSA14_SystemIntegration/)
+- REST (методы, контракт, mapping, errors, UC updates): [`BSA15_REST/*`](BSA15_REST/)
+- SOAP/WSDL (структура, reverse, endpoints): [`BSA16_SOAP/*`](BSA16_SOAP/)
 
 ## 6. Какие навыки бизнес-системного аналитика демонстрирует проект
 - Системная интеграция: data flows, мастер-данные, потребители, сценарии обмена
