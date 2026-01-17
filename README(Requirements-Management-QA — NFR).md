@@ -37,31 +37,31 @@
 ### 4.1. BSA12_NonfunctionalRequirements
 **Фокус:** полный цикл работы с NFR — от идентификации до атрибутов.
 
-- [`BSA12_NonfunctionalRequirements/Exercise_00_Identification of Non-Functional Requirements.pdf`](BSA12_NonfunctionalRequirements/Exercise_00_Identification of Non-Functional Requirements.pdf)  
+- [`BSA12_NonfunctionalRequirements/Exercise_00_Identification_of_Non-Functional_Requirements.pdf`](BSA12_NonfunctionalRequirements/Exercise_00_Identification_of_Non-Functional_Requirements.pdf)  
   В рамках задания выявлены нефункциональные требования для системы и сформирован первичный список NFR.  
   Навыки: elicitation NFR, системное качество.
 
-- [`BSA12_NonfunctionalRequirements/Exercise_01_Classification Non-Functional Requirements.pdf`](BSA12_NonfunctionalRequirements/Exercise_01_Classification Non-Functional Requirements.pdf)  
+- [`BSA12_NonfunctionalRequirements/Exercise_01_Classification_Non-Functional_Requirements.pdf`](BSA12_NonfunctionalRequirements/Exercise_01_Classification_Non-Functional_Requirements.pdf)  
   В рамках задания классифицированы NFR по группам качества.  
   Навыки: taxonomy NFR, структурирование.
 
-- [`BSA12_NonfunctionalRequirements/Exercise_02_Selection of NFRs.pdf`](BSA12_NonfunctionalRequirements/Exercise_02_Selection of NFRs.pdf)  
+- [`BSA12_NonfunctionalRequirements/Exercise_02_Selection_of_NFRs.pdf`](BSA12_NonfunctionalRequirements/Exercise_02_Selection_of_NFRs.pdf)  
   В рамках задания выполнен отбор/уточнение релевантных NFR (фокус на наиболее значимые).  
   Навыки: приоритизация качества, scope NFR.
 
-- [`BSA12_NonfunctionalRequirements/Exercise_03_Performance Attributes.pdf`](BSA12_NonfunctionalRequirements/Exercise_03_Performance Attributes.pdf)  
+- [`BSA12_NonfunctionalRequirements/Exercise_03_Performance_Attributes.pdf`](BSA12_NonfunctionalRequirements/Exercise_03_Performance_Attributes.pdf)  
   В рамках задания определены атрибуты производительности (метрики/пороговые значения).  
   Навыки: измеримость NFR, формулировка SLA/SLO.
 
-- [`BSA12_NonfunctionalRequirements/Exercise_04_Availability and Reliability Attributes.pdf`](BSA12_NonfunctionalRequirements/Exercise_04_Availability and Reliability Attributes.pdf)  
+- [`BSA12_NonfunctionalRequirements/Exercise_04_Availability_and_Reliability_Attributes.pdf`](BSA12_NonfunctionalRequirements/Exercise_04_Availability_and_Reliability_Attributes.pdf)  
   В рамках задания определены атрибуты доступности и надежности.  
   Навыки: reliability engineering на уровне требований.
 
-- [`BSA12_NonfunctionalRequirements/Exercise_05_Scalability Attributes.pdf`](BSA12_NonfunctionalRequirements/Exercise_05_Scalability Attributes.pdf)  
+- [`BSA12_NonfunctionalRequirements/Exercise_05_Scalability_Attributes.pdf`](BSA12_NonfunctionalRequirements/Exercise_05_Scalability_Attributes.pdf)  
   В рамках задания определены требования к масштабируемости.  
   Навыки: рост нагрузки, capacity thinking.
 
-- [`BSA12_NonfunctionalRequirements/Exercise_06_Security Attributes.pdf`](BSA12_NonfunctionalRequirements/Exercise_06_Security Attributes.pdf)  
+- [`BSA12_NonfunctionalRequirements/Exercise_06_Security_Attributes.pdf`](BSA12_NonfunctionalRequirements/Exercise_06_Security_Attributes.pdf)  
   В рамках задания определены требования безопасности (контроль доступа, защищенность данных и т.п.).  
   Навыки: security-by-requirements, RBAC/защита данных.
 
@@ -94,7 +94,7 @@
   В рамках задания зарегистрированы пользовательские требования (USR) как отдельные элементы в системе.  
   Навыки: user-centric требования, трассировка.
 
-- [`BSA13_RequirementsManagements/Exercise_00_Скриншот всей доки.png`](BSA13_RequirementsManagements/Exercise_00_Скриншот всей доки.png)  
+- [`BSA13_RequirementsManagements/Exercise_00_Скриншот_всей_доки.png`](BSA13_RequirementsManagements/Exercise_00_Скриншот_всей_доки.png)  
   В рамках задания зафиксирован общий вид документации/структуры требований в системе управления.  
   Навыки: контроль целостности, обзор набора требований.
 
@@ -117,7 +117,7 @@
   Навыки: разбиение требований, управление зависимостями.
 
 #### 4.2.3. ex02 — Exercise 02 (позитивные тест-кейсы)
-- [`BSA13_RequirementsManagements/Exercise_02_Creating a Positive Test Case.pdf`](BSA13_RequirementsManagements/Exercise_02_Creating a Positive Test Case.pdf)  
+- [`BSA13_RequirementsManagements/Exercise_02_Creating_a_Positive_Test_Case.pdf`](BSA13_RequirementsManagements/Exercise_02_Creating_a_Positive_Test_Case.pdf)  
   В рамках задания описана методика и структура позитивного тест-кейса.  
   Навыки: test design, корректная структура тестов.
 
@@ -128,7 +128,7 @@
   Навыки: покрытие основного сценария, воспроизводимость.
 
 #### 4.2.4. ex03 — Exercise 03 (негативные тест-кейсы)
-- [`BSA13_RequirementsManagements/Exercise_03_Creating a Negative Test Case.pdf`](BSA13_RequirementsManagements/Exercise_03_Creating a Negative Test Case.pdf)  
+- [`BSA13_RequirementsManagements/Exercise_03_Creating_a_Negative_Test_Case.pdf`](BSA13_RequirementsManagements/Exercise_03_Creating_a_Negative_Test_Case.pdf)  
   В рамках задания описана методика и структура негативного тест-кейса.  
   Навыки: negative testing, граничные случаи.
 
@@ -139,16 +139,16 @@
   Навыки: проверка валидаций, обработка исключений.
 
 #### 4.2.5. Exercise 04 — Result Evaluation
-- `BSA13_RequirementsManagements/Exercise_04_Result Evaluation`  
+- [`BSA13_RequirementsManagements/Exercise_04_Result_Evaluation`](BSA13_RequirementsManagements/Exercise_04_Result_Evaluation.pdf)
   Раздел указан в структуре репозитория; отдельные файлы не перечислены.  
   Навыки: оценка результатов тестирования/качества (если отражено внутри раздела).
 
 ---
 
 ## 5. Артефакты бизнес-системного анализа
-- NFR: `BSA12_NonfunctionalRequirements/*`
-- ReqMgmt: `BSA13_RequirementsManagements/Exercise_00/*`, `BSA13_RequirementsManagements/Exercise_01/*`
-- QA test cases: `BSA13_RequirementsManagements/Exercise_02/*`, `BSA13_RequirementsManagements/Exercise_03/*`
+- NFR: [`BSA12_NonfunctionalRequirements/*`](BSA12_NonfunctionalRequirements/)
+- ReqMgmt: [`BSA13_RequirementsManagements/Exercise_00/*`](BSA13_RequirementsManagements/Exercise_00/), [`BSA13_RequirementsManagements/Exercise_01/*`](BSA13_RequirementsManagements/Exercise_01/)
+- QA test cases: [`BSA13_RequirementsManagements/Exercise_02/*`](BSA13_RequirementsManagements/Exercise_02/), [`BSA13_RequirementsManagements/Exercise_03/*`](BSA13_RequirementsManagements/Exercise_03/)
 
 ## 6. Какие навыки бизнес-системного аналитика демонстрирует проект
 - NFR engineering: выявление, классификация, метрики качества
