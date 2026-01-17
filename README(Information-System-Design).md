@@ -259,76 +259,76 @@
 ### 4.7. BSA06_BPMN
 **Фокус:** BPMN-процессы DLOR + согласование/ревизия.
 
-- [`BSA06_BPMN/ex00_DLOR_base_information.pdf`](BSA06_BPMN/ex00_DLOR_base_information.pdf)  
+- [`BSA06_BPMN/ex00_SHOP_base_information.pdf`](BSA06_BPMN/ex00_SHOP_base_information.pdf)  
   В рамках задания собрана базовая информация для моделирования процессов **DLOR** (контекст/участники/объекты).  
   Навыки: подготовка BPMN, сбор исходных данных.
 
-- [`BSA06_BPMN/ex00_SNHC_base_information.pdf`](BSA06_BPMN/ex00_SNHC_base_information.pdf)  
+- [`BSA06_BPMN/ex00_HAIR_base_information.pdf`](BSA06_BPMN/ex00_HAIR_base_information.pdf)  
   Базовая информация для **SNHC**.  
   Навыки: подготовка к моделированию.
 
-- [`BSA06_BPMN/ex01_DLOR_mpr.pdf`](BSA06_BPMN/ex01_DLOR_mpr.pdf)  
-  В рамках задания определен перечень основных бизнес-процессов **DLOR**.  
+- [`BSA06_BPMN/ex01_HAIR_mpr.pdf`](BSA06_BPMN/ex01_HAIR_mpr.pdf)  
+  В рамках задания определен перечень основных бизнес-процессов **SNHC**.  
   Навыки: выделение процессов, декомпозиция по value stream.
 
-- [`BSA06_BPMN/ex02/ex02_DLOR_bp01_disc.pdf`](BSA06_BPMN/ex02/ex02_DLOR_bp01_disc.pdf)  
+- [`BSA06_BPMN/Ex02/ex02_HAIR_BPR-1_disc.pdf`](BSA06_BPMN/Ex02/ex02_HAIR_BPR-1_disc.pdf.pdf)  
   В рамках задания оформлено обсуждение/уточнения процесса BPMN №1 (замечания, вопросы, согласование).  
   Навыки: коммуникации, протоколирование, работа с обратной связью.
 
-- [`BSA06_BPMN/ex02/ex02_DLOR_bp02_disc.pdf`](BSA06_BPMN/ex02/ex02_DLOR_bp02_disc.pdf)  
+- [`BSA06_BPMN/Ex02/ex02_HAIR_BPR-2_disc.pdf`](BSA06_BPMN/Ex02/ex02_HAIR_BPR-2_disc.pdf)  
   Обсуждение процесса BPMN №2.  
   Навыки: согласование артефактов.
 
-- [`BSA06_BPMN/ex02/ex02_DLOR_bp03_disc.pdf`](BSA06_BPMN/ex02/ex02_DLOR_bp03_disc.pdf)  
+- [`BSA06_BPMN/Ex02/ex02_HAIR_BPR-3_disc.pdf`](BSA06_BPMN/Ex02/ex02_HAIR_BPR-3_disc.pdf)  
   Обсуждение процесса BPMN №3.  
   Навыки: управление изменениями.
 
-- [`BSA06_BPMN/ex02/ex02_DLOR_bp04_disc.pdf`](BSA06_BPMN/ex02/ex02_DLOR_bp04_disc.pdf)  
+- [`BSA06_BPMN/Ex02/ex02_HAIR_BPR-4_disc.pdf`](BSA06_BPMN/Ex02/ex02_HAIR_BPR-4_disc.pdf)  
   Обсуждение процесса BPMN №4.  
   Навыки: уточнение требований через процесс.
 
-- [`BSA06_BPMN/ex02/ex02_DLOR_bp05_disc.pdf`](BSA06_BPMN/ex02/ex02_DLOR_bp05_disc.pdf)  
+- [`BSA06_BPMN/Ex02/ex02_HAIR_BPR-5_disc.pdf`](BSA06_BPMN/Ex02/ex02_HAIR_BPR-5_disc.pdf)  
   Обсуждение процесса BPMN №5.  
   Навыки: согласование.
 
-- [`BSA06_BPMN/ex02/ex02_DLOR_bp06_disc.pdf`](BSA06_BPMN/ex02/ex02_DLOR_bp06_disc.pdf)  
+- [`BSA06_BPMN/Ex02/ex02_HAIR_BPR-6_disc.pdf`](BSA06_BPMN/Ex02/ex02_HAIR_BPR-6_disc.pdf)  
   Обсуждение процесса BPMN №6.  
   Навыки: согласование.
 
-- [`BSA06_BPMN/ex03_DLOR_mpr.pdf`](BSA06_BPMN/ex03_DLOR_mpr.pdf)  
-  В рамках задания описаны основные бизнес-процессы **DLOR** (текстовое описание/границы/участники).  
+- [`BSA06_BPMN/ex03_HAIR_mpr.pdf`](BSA06_BPMN/ex03_HAIR_mpr.pdf)  
+  В рамках задания описаны основные бизнес-процессы **SNHC** (текстовое описание/границы/участники).  
   Навыки: спецификация процессов.
 
-- [`BSA06_BPMN/ex04/ex04_barb_bpmn_bp01.jpg`](BSA06_BPMN/ex04/ex04_barb_bpmn_bp01.jpg)  
-  В рамках задания построена BPMN-диаграмма процесса **DLOR** №1.  
+- [`BSA06_BPMN/Ex04/ex04_HAIR_bpmn_BPR-1.svg`](BSA06_BPMN/Ex04/ex04_HAIR_bpmn_BPR-1.svg)  
+  В рамках задания построена BPMN-диаграмма процесса **SNHC** №1.  
   Навыки: BPMN notation, события/шлюзы/сообщения.
 
-- [`BSA06_BPMN/ex04/ex04_barb_bpmn_bp02.jpg`](BSA06_BPMN/ex04/ex04_barb_bpmn_bp02.jpg)  
+- [`BSA06_BPMN/Ex04/ex04_HAIR_bpmn_BPR-2.svg`](BSA06_BPMN/Ex04/ex04_HAIR_bpmn_BPR-2.svg)  
   BPMN процесса №2.  
   Навыки: BPMN.
 
-- [`BSA06_BPMN/ex04/ex04_barb_bpmn_bp03.jpg`](BSA06_BPMN/ex04/ex04_barb_bpmn_bp03.jpg)  
+- [`BSA06_BPMN/Ex04/ex04_HAIR_bpmn_BPR-3.svg`](BSA06_BPMN/Ex04/ex04_HAIR_bpmn_BPR-3.svg)  
   BPMN процесса №3.  
   Навыки: BPMN.
 
-- [`BSA06_BPMN/ex04/ex04_barb_bpmn_bp04.jpg`](BSA06_BPMN/ex04/ex04_barb_bpmn_bp04.jpg)  
+- [`BSA06_BPMN/Ex04/ex04_HAIR_bpmn_BPR-4.svg`](BSA06_BPMN/Ex04/ex04_HAIR_bpmn_BPR-4.svgg)  
   BPMN процесса №4.  
   Навыки: BPMN.
 
-- [`BSA06_BPMN/ex04/ex04_barb_bpmn_bp05.jpg`](BSA06_BPMN/ex04/ex04_barb_bpmn_bp05.jpg)  
+- [`BSA06_BPMN/Ex04/ex04_HAIR_bpmn_BPR-5.svg`](BSA06_BPMN/Ex04/ex04_HAIR_bpmn_BPR-5.svg)  
   BPMN процесса №5.  
   Навыки: BPMN.
 
-- [`BSA06_BPMN/ex04/ex04_barb_bpmn_bp06.jpg`](BSA06_BPMN/ex04/ex04_barb_bpmn_bp06.jpg)  
+- [`BSA06_BPMN/Ex04/ex04_HAIR_bpmn_BPR-6.svg`](BSA06_BPMN/Ex04/ex04_HAIR_bpmn_BPR-6.svg)  
   BPMN процесса №6.  
   Навыки: BPMN.
 
-- [`BSA06_BPMN/ex05_DLOR_glossary.pdf`](BSA06_BPMN/ex05_DLOR_glossary.pdf)  
+- [`BSA06_BPMN/ex05_HAIR_glossary.pdf`](BSA06_BPMN/ex05_HAIR_glossary.pdf)  
   В рамках задания выполнена актуализация глоссария **DLOR** после BPMN.  
   Навыки: консистентность терминов между процессами и требованиями.
 
-- [`BSA06_BPMN/ex05_DLOR_rev.pdf`](BSA06_BPMN/ex05_DLOR_rev.pdf)  
-  В рамках задания проведена ревизия артефактов **DLOR** по итогам обсуждений и BPMN.  
+- [`BSA06_BPMN/ex05_HAIR_rev.pdf`](BSA06_BPMN/ex05_HAIR_rev.pdf)  
+  В рамках задания проведена ревизия артефактов **SNHC** по итогам обсуждений и BPMN.  
   Навыки: quality review, управление изменениями, выравнивание артефактов.
 
 ---
