@@ -71,7 +71,7 @@
 **Фокус:** учет требований + тест-кейсы.
 
 #### 4.2.1. ex00 — Exercise 00 (регистрация разных типов требований)
-- [`BSA13_RequirementsManagements/Exercise_00_BRD001.png`](BSA13_RequirementsManagements/Exercise_00_BRD001.png)  
+- [`BSA13_RequirementsManagements/Exercise_00/Exercise_00_BRD001.png`](BSA13_RequirementsManagements/Exercise_00/Exercise_00_BRD001.png)  
   В рамках задания зарегистрировано бизнес-требование (BRD) в системе управления требованиями.  
   Навыки: documentation, типизация требований.
 
