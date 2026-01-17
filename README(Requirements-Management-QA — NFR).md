@@ -75,71 +75,71 @@
   В рамках задания зарегистрировано бизнес-требование (BRD) в системе управления требованиями.  
   Навыки: documentation, типизация требований.
 
-- [`BSA13_RequirementsManagements/Exercise_00_FCR001.png`](BSA13_RequirementsManagements/Exercise_00_FCR001.png)  
+- [`BSA13_RequirementsManagements/Exercise_00/Exercise_00_FCR001.png`](BSA13_RequirementsManagements/Exercise_00/Exercise_00_FCR001.png)  
   В рамках задания зарегистрировано функциональное требование (FCR).  
   Навыки: детализация функций, формализация.
 
-- [`BSA13_RequirementsManagements/Exercise_00_NFR001.png`](BSA13_RequirementsManagements/Exercise_00_NFR001.png)  
-- [`BSA13_RequirementsManagements/Exercise_00_NFR002.png`](BSA13_RequirementsManagements/Exercise_00_NFR002.png)  
-- [`BSA13_RequirementsManagements/Exercise_00_NFR003.png`](BSA13_RequirementsManagements/Exercise_00_NFR003.png)  
-- [`BSA13_RequirementsManagements/Exercise_00_NFR004.png`](BSA13_RequirementsManagements/Exercise_00_NFR004.png)  
-- [`BSA13_RequirementsManagements/Exercise_00_NFR005.png`](BSA13_RequirementsManagements/Exercise_00_NFR005.png)  
-- [`BSA13_RequirementsManagements/Exercise_00_NFR006.png`](BSA13_RequirementsManagements/Exercise_00_NFR006.png)  
+- [`BSA13_RequirementsManagements/Exercise_00/Exercise_00_NFR001.png`](BSA13_RequirementsManagements/Exercise_00/Exercise_00_NFR001.png)  
+- [`BSA13_RequirementsManagements/Exercise_00_NFR002.png`](BSA13_RequirementsManagements/Exercise_00/Exercise_00_NFR002.png)  
+- [`BSA13_RequirementsManagements/Exercise_00_NFR003.png`](BSA13_RequirementsManagements/Exercise_00/Exercise_00_NFR003.png)  
+- [`BSA13_RequirementsManagements/Exercise_00_NFR004.png`](BSA13_RequirementsManagements/Exercise_00/Exercise_00_NFR004.png)  
+- [`BSA13_RequirementsManagements/Exercise_00_NFR005.png`](BSA13_RequirementsManagements/Exercise_00/Exercise_00_NFR005.png)  
+- [`BSA13_RequirementsManagements/Exercise_00_NFR006.png`](BSA13_RequirementsManagements/Exercise_00/Exercise_00_NFR006.png)  
   В рамках задания зарегистрированы NFR (несколько карточек) с атрибутами/статусами.  
   Навыки: req attributes, управление качеством через требования.
 
-- [`BSA13_RequirementsManagements/Exercise_00_USR001.png`](BSA13_RequirementsManagements/Exercise_00_USR001.png)  
-- [`BSA13_RequirementsManagements/Exercise_00_USR002.png`](BSA13_RequirementsManagements/Exercise_00_USR002.png)  
-- [`BSA13_RequirementsManagements/Exercise_00_USR003.png`](BSA13_RequirementsManagements/Exercise_00_USR003.png)  
+- [`BSA13_RequirementsManagements/Exercise_00/Exercise_00_USR001.png`](BSA13_RequirementsManagements/Exercise_00/Exercise_00_USR001.png)  
+- [`BSA13_RequirementsManagements/Exercise_00/Exercise_00_USR002.png`](BSA13_RequirementsManagements/Exercise_00/Exercise_00_USR002.png)  
+- [`BSA13_RequirementsManagements/Exercise_00/Exercise_00_USR003.png`](BSA13_RequirementsManagements/Exercise_00/Exercise_00_USR003.png)  
   В рамках задания зарегистрированы пользовательские требования (USR) как отдельные элементы в системе.  
   Навыки: user-centric требования, трассировка.
 
-- [`BSA13_RequirementsManagements/Exercise_00_Скриншот_всей_доки.png`](BSA13_RequirementsManagements/Exercise_00_Скриншот_всей_доки.png)  
+- [`BSA13_RequirementsManagements/Exercise_00/Exercise_00_Скриншот_всей_доки.png`](BSA13_RequirementsManagements/Exercise_00/Exercise_00_Скриншот_всей_доки.png)  
   В рамках задания зафиксирован общий вид документации/структуры требований в системе управления.  
   Навыки: контроль целостности, обзор набора требований.
 
 #### 4.2.2. ex01 — Exercise 01 (декомпозиция требования на части)
-- [`BSA13_RequirementsManagements/Exercise_01_IFR001.png`](BSA13_RequirementsManagements/Exercise_01_IFR001.png)  
-- [`BSA13_RequirementsManagements/Exercise_01_IFR002.png`](BSA13_RequirementsManagements/Exercise_01_IFR002.png)  
+- [`BSA13_RequirementsManagements/Exercise_01/Exercise_01_IFR001.png`](BSA13_RequirementsManagements/Exercise_01_IFR001.png)  
+- [`BSA13_RequirementsManagements/Exercise_01/Exercise_01_IFR002.png`](BSA13_RequirementsManagements/Exercise_01/Exercise_01_IFR002.png)  
   В рамках задания зарегистрированы элементы IFR (части требования, уточняющие информацию/информирование).  
   Навыки: декомпозиция требований, детализация.
 
-- [`BSA13_RequirementsManagements/Exercise_01_SFR001.png`](BSA13_RequirementsManagements/Exercise_01_SFR001.png)  
-- [`BSA13_RequirementsManagements/Exercise_01_SFR002.png`](BSA13_RequirementsManagements/Exercise_01_SFR002.png)  
+- [`BSA13_RequirementsManagements/Exercise_01/Exercise_01_SFR001.png`](BSA13_RequirementsManagements/Exercise_01/Exercise_01_SFR001.png)  
+- [`BSA13_RequirementsManagements/Exercise_01/Exercise_01_SFR002.png`](BSA13_RequirementsManagements/Exercise_01/Exercise_01_SFR002.png)  
   В рамках задания зарегистрированы элементы SFR (подтребования/частные функции в рамках исходного требования).  
   Навыки: структурирование FR, связность.
 
-- [`BSA13_RequirementsManagements/Exercise_01_SHR001.png`](BSA13_RequirementsManagements/Exercise_01_SHR001.png)  
-- [`BSA13_RequirementsManagements/Exercise_01_SHR002.png`](BSA13_RequirementsManagements/Exercise_01_SHR002.png)  
-- [`BSA13_RequirementsManagements/Exercise_01_SHR003.png`](BSA13_RequirementsManagements/Exercise_01_SHR003.png)  
-- [`BSA13_RequirementsManagements/Exercise_01_SHR004.png`](BSA13_RequirementsManagements/Exercise_01_SHR004.png)  
+- [`BSA13_RequirementsManagements/Exercise_01/Exercise_01_SHR001.png`](BSA13_RequirementsManagements/Exercise_01/Exercise_01_SHR001.png)  
+- [`BSA13_RequirementsManagements/Exercise_01/Exercise_01_SHR002.png`](BSA13_RequirementsManagements/Exercise_01/Exercise_01_SHR002.png)  
+- [`BSA13_RequirementsManagements/Exercise_01/Exercise_01_SHR003.png`](BSA13_RequirementsManagements/Exercise_01/Exercise_01_SHR003.png)  
+- [`BSA13_RequirementsManagements/Exercise_01/Exercise_01_SHR004.png`](BSA13_RequirementsManagements/Exercise_01/Exercise_01_SHR004.png)  
   В рамках задания зарегистрированы элементы SHR (части требования, связанные с заинтересованными сторонами/согласованиями/ограничениями — согласно типизации курса).  
   Навыки: разбиение требований, управление зависимостями.
 
 #### 4.2.3. ex02 — Exercise 02 (позитивные тест-кейсы)
-- [`BSA13_RequirementsManagements/Exercise_02_Creating_a_Positive_Test_Case.pdf`](BSA13_RequirementsManagements/Exercise_02_Creating_a_Positive_Test_Case.pdf)  
+- [`BSA13_RequirementsManagements/Exercise_02/Exercise_02_Creating_a_Positive_Test_Case.pdf`](BSA13_RequirementsManagements/Exercise_02/Exercise_02_Creating_a_Positive_Test_Case.pdf)  
   В рамках задания описана методика и структура позитивного тест-кейса.  
   Навыки: test design, корректная структура тестов.
 
-- [`BSA13_RequirementsManagements/Exercise_02_TC-UC02-01.png`](BSA13_RequirementsManagements/Exercise_02_TC-UC02-01.png)  
-- [`BSA13_RequirementsManagements/Exercise_02_TC-UC02-02.png`](BSA13_RequirementsManagements/Exercise_02_TC-UC02-02.png)  
-- [`BSA13_RequirementsManagements/Exercise_02_TC-UC02-03.png`](BSA13_RequirementsManagements/Exercise_02_TC-UC02-03.png)  
+- [`BSA13_RequirementsManagements/Exercise_02/Exercise_02_TC-UC02-01.png`](BSA13_RequirementsManagements/Exercise_02/Exercise_02_TC-UC02-01.png)  
+- [`BSA13_RequirementsManagements/Exercise_02/Exercise_02_TC-UC02-02.png`](BSA13_RequirementsManagements/Exercise_02/Exercise_02_TC-UC02-02.png)  
+- [`BSA13_RequirementsManagements/Exercise_02/Exercise_02_TC-UC02-03.png`](BSA13_RequirementsManagements/Exercise_02/Exercise_02_TC-UC02-03.png)  
   В рамках задания подготовлены позитивные тест-кейсы, привязанные к UC (TC-UC02-xx).  
   Навыки: покрытие основного сценария, воспроизводимость.
 
 #### 4.2.4. ex03 — Exercise 03 (негативные тест-кейсы)
-- [`BSA13_RequirementsManagements/Exercise_03_Creating_a_Negative_Test_Case.pdf`](BSA13_RequirementsManagements/Exercise_03_Creating_a_Negative_Test_Case.pdf)  
+- [`BSA13_RequirementsManagements/Exercise_03/Exercise_03_Creating_a_Negative_Test_Case.pdf`](BSA13_RequirementsManagements/Exercise_03/Exercise_03_Creating_a_Negative_Test_Case.pdf)  
   В рамках задания описана методика и структура негативного тест-кейса.  
   Навыки: negative testing, граничные случаи.
 
-- [`BSA13_RequirementsManagements/Exercise_03_NTC-UC02-01.png`](BSA13_RequirementsManagements/Exercise_03_NTC-UC02-01.png)  
-- [`BSA13_RequirementsManagements/Exercise_03_NTC-UC02-02.png`](BSA13_RequirementsManagements/Exercise_03_NTC-UC02-02.png)  
-- [`BSA13_RequirementsManagements/Exercise_03_NTC-UC02-03.png`](BSA13_RequirementsManagements/Exercise_03_NTC-UC02-03.png)  
+- [`BSA13_RequirementsManagements/Exercise_03/Exercise_03_NTC-UC02-01.png`](BSA13_RequirementsManagements/Exercise_03/Exercise_03_NTC-UC02-01.png)  
+- [`BSA13_RequirementsManagements/Exercise_03/Exercise_03_NTC-UC02-02.png`](BSA13_RequirementsManagements/Exercise_03/Exercise_03_NTC-UC02-02.png)  
+- [`BSA13_RequirementsManagements/Exercise_03/Exercise_03_NTC-UC02-03.png`](BSA13_RequirementsManagements/Exercise_03/Exercise_03_NTC-UC02-03.png)  
   В рамках задания подготовлены негативные тест-кейсы (NTC-UC02-xx) для проверки ошибок/ограничений.  
   Навыки: проверка валидаций, обработка исключений.
 
 #### 4.2.5. Exercise 04 — Result Evaluation
-- [`BSA13_RequirementsManagements/Exercise_04_Result_Evaluation`](BSA13_RequirementsManagements/Exercise_04_Result_Evaluation.pdf)
+- [`BSA13_RequirementsManagements/Exercise_04/Exercise_04_Result_Evaluation`](BSA13_RequirementsManagements/Exercise_04/Exercise_04_Result_Evaluation.pdf)
   Раздел указан в структуре репозитория; отдельные файлы не перечислены.  
   Навыки: оценка результатов тестирования/качества (если отражено внутри раздела).
 
