@@ -94,12 +94,12 @@
   В рамках задания зарегистрированы пользовательские требования (USR) как отдельные элементы в системе.  
   Навыки: user-centric требования, трассировка.
 
-- [`BSA13_RequirementsManagements/Exercise_00/Exercise_00_Скриншот_всей_доки.png`](BSA13_RequirementsManagements/Exercise_00/Exercise_00_Скриншот_всей_доки.png)  
+- [`BSA13_RequirementsManagements/Exercise_00/Exercise_00_Скриншот_всей_доски.png`](BSA13_RequirementsManagements/Exercise_00/Exercise_00_Скриншот_всей_доски.png)  
   В рамках задания зафиксирован общий вид документации/структуры требований в системе управления.  
   Навыки: контроль целостности, обзор набора требований.
 
 #### 4.2.2. ex01 — Exercise 01 (декомпозиция требования на части)
-- [`BSA13_RequirementsManagements/Exercise_01/Exercise_01_IFR001.png`](BSA13_RequirementsManagements/Exercise_01_IFR001.png)  
+- [`BSA13_RequirementsManagements/Exercise_01/Exercise_01_IFR001.png`](BSA13_RequirementsManagements/Exercise_01/Exercise_01_IFR001.png)  
 - [`BSA13_RequirementsManagements/Exercise_01/Exercise_01_IFR002.png`](BSA13_RequirementsManagements/Exercise_01/Exercise_01_IFR002.png)  
   В рамках задания зарегистрированы элементы IFR (части требования, уточняющие информацию/информирование).  
   Навыки: декомпозиция требований, детализация.
@@ -139,7 +139,7 @@
   Навыки: проверка валидаций, обработка исключений.
 
 #### 4.2.5. Exercise 04 — Result Evaluation
-- [`BSA13_RequirementsManagements/Exercise_04/Exercise_04_Result_Evaluation`](BSA13_RequirementsManagements/Exercise_04/Exercise_04_Result_Evaluation.pdf)
+- [`BSA13_RequirementsManagements/Exercise_04_Result_Evaluation`](BSA13_RequirementsManagements/Exercise_04_Result_Evaluation.pdf)
   Раздел указан в структуре репозитория; отдельные файлы не перечислены.  
   Навыки: оценка результатов тестирования/качества (если отражено внутри раздела).
 
